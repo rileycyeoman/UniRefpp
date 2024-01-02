@@ -20,6 +20,7 @@ Status:
 | RIS  | In Progress  |
 | FSS  | In Progress  |
 | RVOS  | In Progress  |
-| VOS  | In Progress  |
+| VOS  | In Progress  |  
+
 Issues:  
 
