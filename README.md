@@ -7,10 +7,10 @@ To determine the efficiency of the model, four additional implementations of Ref
 
 Papers for theory:
 [UniRef++](https://arxiv.org/abs/2312.15715)  
-[RIS](https://arxiv.org/pdf/2308.14575.pdf)  
-[FSS](https://arxiv.org/pdf/1908.06391v2.pdf)
-[RVOS](https://arxiv.org/pdf/2111.14821v2.pdf) 
-[VOS](https://arxiv.org/pdf/1802.07934v2.pdf)
+[RIS](https://arxiv.org/pdf/2308.14575.pdf)    
+[FSS](https://arxiv.org/pdf/1908.06391v2.pdf)  
+[RVOS](https://arxiv.org/pdf/2111.14821v2.pdf)    
+[VOS](https://arxiv.org/pdf/1802.07934v2.pdf)  
 
 
 Status:  
