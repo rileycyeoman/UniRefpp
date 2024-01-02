@@ -1,5 +1,4 @@
 **Author**: Riley Yeoman
-
 **Email**: rileycyeoman@outlook.com
 
 Implementation of the UniRef++ algorithm proposed by Wu. et al. (https://arxiv.org/abs/2312.15715).
